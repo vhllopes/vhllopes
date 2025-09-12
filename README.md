@@ -17,8 +17,8 @@ Sou um estudante de **Ciência da Computação na UNESP** e um entusiasta de tec
 
 <div align="center">
   <a href="https://github.com/vhllopes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-DO-GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-DO-GITHUB&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vhllopes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhllopes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
